@@ -1,0 +1,1 @@
+npm install firebase@7.14.5 esa version usamos en el curso
